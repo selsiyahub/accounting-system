@@ -11,7 +11,8 @@ class App extends BaseConfig
      * Base Site URL
      * --------------------------------------------------------------------------
      *
-     * URL to your CodeIgniter root. Typically, this will be your base URL,
+     * URL to your CodeIgniter root. Typically, this will be your base URL,git init
+
      * WITH a trailing slash:
      *
      * E.g., http://example.com/
