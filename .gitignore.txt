@@ -1,0 +1,7 @@
+/writable/*
+/env
+/vendor/
+/node_modules/
+/.idea/
+/.vscode/
+*.log
